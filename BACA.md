@@ -13,10 +13,10 @@ Pembacaan Cryptocurrency Indodax Melalui Bot Telegram Berbasis PHP
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Fitur | Baca, Pengendalian Masalah |
+| Fitur | • Baca<br>• Pengendalian Masalah |
 | Kode | PHP |
 | Kerangka Kerja | Botman |
-| Peralatan | XAMPP (PHP Versi 7.4) & Ngrok |
+| Peralatan | • Xampp<br>• Ngrok |
 
 <br><br>
 
